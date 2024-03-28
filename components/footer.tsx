@@ -27,7 +27,7 @@ const Footer = () => {
 						<div className='text-white flex gap-4'>
 							<div className='flex items-center gap-2'>
 								<HiOutlineLocationMarker size={'20px'} style={{ color: '#32B141' }} />
-								<p className='m-0'>122/1 Mirzo Ulug bek ko'chasi, Tashkent, Uzbekistan 100015</p>
+								<p className='m-0'>122/1 Mirzo Ulug bek ko`chasi, Tashkent, Uzbekistan 100015</p>
 							</div>
 							<div className='flex items-center gap-2'>
 								<BsTelephone size={'20px'} color='#32B141' />
@@ -42,7 +42,7 @@ const Footer = () => {
 						<div className='text-white font-bold mb-3'>About the service</div>
 						<ul className='text-gray-400'>
 							<li>About company</li>
-							<li>About the application's capabilities</li>
+							<li>About the application`s capabilities</li>
 							<li>News</li>
 							<li>Safety</li>
 							<li>Rates</li>
